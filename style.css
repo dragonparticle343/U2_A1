@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    width: max-content;
+    padding: 10px;
+    background-color: steelblue;
+    font-size: 1.5rem;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+}
+
+p {
+    padding: 10px;
+    font-size: 1rem;
+    text-align: center;
+}
